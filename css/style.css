@@ -108,16 +108,42 @@ html{
     color: black;
     text-decoration: none;
 }
-.prof-box .social-media a :hover{
-  color: blue;
- margin: 0 15px;
- 
+
+
+.prof-box .social-media a #gmail{
+  color: brown;
+font-size: 30px;
+
 }
-
-
-.prof-box .social-media a i{
-  color: aqua;
+.prof-box .social-media a #linked{
+    color: rgb(24, 104, 196);
   font-size: 30px;
 
 }
+.prof-box .social-media a #github{
+    color: rgb(233, 229, 229);
+  font-size: 30px;
+
+}
+.prof-box .social-media a #twitter{
+    color: rgb(26, 115, 189);
+  
+
+}
+.prof-box .social-media a  {
+ margin: 0 15px;
+ font-size: 30px;
+}
+
+.prof-box .social-media a  :hover {
+  margin: 0 15px;
+  font-size: 50px;
+ }
+
+.prof-box .buttons :hover{
+  background-color: aqua;
+}
+
+
+
   
