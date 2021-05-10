@@ -11,8 +11,9 @@ html{
 
     background: url(../assets/images/new\ background\ image.jfif) no-repeat center center fixed;
      
-    background-size: 2000px 700px;
+    background-size: 2000px 730px;
   }
+ 
   .prof-box{
       width:450px;
       height:550px;
@@ -90,6 +91,7 @@ html{
 .prof-box .btn1 a{
     text-decoration: none;
     color: black;
+    
 }
 
 .prof-box .btn2{
@@ -99,11 +101,23 @@ html{
     text-decoration: none;
     background-color: rgb(177, 163, 163);
     padding: 15px 25px;
+
 }
 
 .prof-box .btn2 a{
     color: black;
     text-decoration: none;
 }
+.prof-box .social-media a :hover{
+  color: blue;
+ margin: 0 15px;
  
+}
+
+
+.prof-box .social-media a i{
+  color: aqua;
+  font-size: 30px;
+
+}
   
